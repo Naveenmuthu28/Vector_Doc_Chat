@@ -1,0 +1,4 @@
+chromadb
+sentence-transformers
+PyPDF2
+rich
